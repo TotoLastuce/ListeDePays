@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Pays à visiter et leurs populations</string>
+    <string-array name="andVersionTxt">
+        <item>Canada</item>
+        <item>Chili</item>
+        <item>Cote d\'Ivoire</item>
+        <item>Senegal</item>
+        <item>Suède</item>
+        <item>Norvège</item>
+        <item>Costa Rica</item>
+        <item>Argentine</item>
+        <item>Groenland</item>
+        <item>Mexique</item>
+    </string-array>
+    <string-array name="andVersionPop">
+        <item>37 590 000 habitants</item>
+        <item>18 730 000 habitants</item>
+        <item>25 070 000 habitants</item>
+        <item>15 850 000 habitants</item>
+        <item>10 230 000 habitants</item>
+        <item>5 433 000 habitants</item>
+        <item>5 000 000 habitants</item>
+        <item>45 376 763 habitants</item>
+        <item>56 025 habitants</item>
+        <item>126 200 000 habitants</item>
+    </string-array>
+</resources>
